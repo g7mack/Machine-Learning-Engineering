@@ -1,0 +1,17 @@
+Required libraries and packages (installed in virtual environment if using)
+
+PyTorch
+
+PyTorch Geometric
+
+AirfRANS dataset: airfrans
+
+numpy
+
+random
+
+os
+
+matplotlib.pyplot
+
+
